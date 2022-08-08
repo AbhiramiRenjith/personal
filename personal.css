@@ -1,0 +1,11 @@
+.butt{
+    background:gray;
+    border: gray;
+    border-radius: 1ch;
+    height:50px;
+    max-width: 150px;
+}
+#imgmy{
+    margin-left:100px;
+    margin-top:-170px;
+}
